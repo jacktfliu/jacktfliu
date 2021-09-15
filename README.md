@@ -1,5 +1,12 @@
 ### Hi there, I'm Jack 👋
 
+## Projects
+
+* [HotelBnB](https://hotelbnb-main.herokuapp.com/#/) - This platform is a FullStack clone of Airbnb that leverages Ruby on Rails, PostgreSQL, AWS S3 and Google APIs for the backend. This website uses React, Redux, JavaScript, HTML, SCSS, and jQuery for its frontend development. 
+
+* [Project Hawkeye](https://project-hawkeye.herokuapp.com/#/) - Project Hawkeye will be a web application that allows users to filter tweets based on an individual's Twitter username. This was a MERN group project that utilizes MongoDB, Express, and Twitter API for the backend. This website uses React, Redux, JavaScript, HTML, and SCSS for its frontend development.
+ 
+* [Monster Dodge](https://jacktfliu.github.io/Monster-Dodge/) - Monster Dodge is a single player pixel game that is entirely built on vanilla Javascript using Cavnas API to render sprite animations. 
 
 
 <!--
