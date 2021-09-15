@@ -6,7 +6,7 @@
 
 * [Project Hawkeye](https://project-hawkeye.herokuapp.com/#/) - Project Hawkeye will be a web application that allows users to filter tweets based on an individual's Twitter username. This was a MERN group project that utilizes MongoDB, Express, and Twitter API for the backend. This website uses React, Redux, JavaScript, HTML, and SCSS for its frontend development.
  
-* [Monster Dodge](https://jacktfliu.github.io/Monster-Dodge/) - Monster Dodge is a single player pixel game that is entirely built on vanilla Javascript using Cavnas API to render sprite animations. 
+* [Monster Dodge](https://jacktfliu.github.io/Monster-Dodge/) - A pixel-based single player game built on vanilla Javascript while utilizing Cavnas API to render character and computer animations.
 
 
 <!--
